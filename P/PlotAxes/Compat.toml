@@ -1,7 +1,7 @@
 [0]
 AxisArrays = "0.3"
-Requires = "0.5"
 Compat = "2"
+Requires = "0.5"
 
 ["0-0.1"]
 julia = ["0.7", "1"]
